@@ -1,11 +1,8 @@
 # 👋 Hi, I'm Beviaouba
 
-**`Full-Stack Developer (Python/C Enthusiast)`**
+**`Passionate Developer (Python/C Enthusiast)`**
 
-💻 专注于构建稳健的后端架构与高效的Web应用  
-🌱 技术栈深度聚焦：Django生态 | 关系型数据库 | 缓存中间件  
-
-
+> *"Talk is cheap. Show me the code."* - Linus Torvalds
 ---
 
 ### 🛠️ 核心技术栈
@@ -26,9 +23,7 @@
 
 ### 📊 GitHub 活跃度
 
-[![Beviaouba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beviaouba&show_icons=true&theme=radical)](https://github.com/Beviaouba)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beviaouba&layout=compact&theme=radical)](https://github.com/Beviaouba)
+![](https://github-readme-stats.vercel.app/api?username=Beviaouba&show_icons=true&theme=transparent)
 
 ---
 
